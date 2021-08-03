@@ -1,0 +1,2 @@
+# registry2harbor
+将registry的镜像推送到harbor上
